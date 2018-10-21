@@ -9,14 +9,19 @@ to exchange their goods.
 The online Student Second-Hand Market is built under the hierarchy structure close to real life based on the students’(user) location. 
 It owns the following functions and features:
 
-## Transaction Process/Software Requirenment:
+## Transaction Process/Business Requirenment
 + Before the Transaction:
+
+
 Check Students’ identity when registered;
 Automated verify mechanism when user forget password
 + During the Transation:
+
+
 Enables fundamental transaction functions such as: Product Categorization, Sell, Search, Purchase;
 Choose delivering method: Face-to-face / Express;
 + After the transaction: 
+
 Confirm recipient 
 keep record of users and offer rating function based on user performance;
 
