@@ -10,13 +10,13 @@ The online Student Second-Hand Market is built under the hierarchy structure clo
 It owns the following functions and features:
 
 ## Transaction Process/Software Requirenment:
-### Before the Transaction:
++ Before the Transaction:
 Check Students’ identity when registered;
 Automated verify mechanism when user forget password
-### During the Transation:
++ During the Transation:
 Enables fundamental transaction functions such as: Product Categorization, Sell, Search, Purchase;
 Choose delivering method: Face-to-face / Express;
-### After the transaction: 
++ After the transaction: 
 Confirm recipient 
 keep record of users and offer rating function based on user performance;
 
