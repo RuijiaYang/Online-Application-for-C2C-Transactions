@@ -20,7 +20,7 @@ Choose delivering method: Face-to-face / Express;
 Confirm recipient 
 keep record of users and offer rating function based on user performance;
 
-##Special Features
+## Special Features of Application
 Create an online system of second-hand transactions for students. The system will help them to make easy and safe-guaranteed second-hand transactions. Eco-System design
 + server/client mode 
 + Product recommendation system
