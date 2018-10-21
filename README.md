@@ -1,5 +1,5 @@
 # Online-Application-for-C2C-Transactions
-This is a academic project I developed with my classmatess Pei Yu, Haoning Xin.
+This is a academic project I developed with my classmates Pei Yu and Haoning Xin.
 Our aim is to develop a JAVA-based application which provided convenient & timely shopping experience for college students in Boston.
 
 ## Problem Statement
