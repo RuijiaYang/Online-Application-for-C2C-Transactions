@@ -22,10 +22,10 @@ keep record of users and offer rating function based on user performance;
 
 ##Special Features
 Create an online system of second-hand transactions for students. The system will help them to make easy and safe-guaranteed second-hand transactions. Eco-System design
-## server/client mode 
-## Product recommendation system
-## Multiple message interaction way for users:
-### Direct message Function;
-### Message board with each product 
-### Forum: online chatroom function
++ server/client mode 
++ Product recommendation system
++ Multiple message interaction way for users:
+  1. Direct message Function;
+  2. Message board with each product 
+  3. Forum: online chatroom function
 
