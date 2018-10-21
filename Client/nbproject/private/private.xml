@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/seller/ViewSellOrderDetailsJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/main/MainLoginFrame.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/buy/ViewBuyOrderDetailsJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/usermessage/SentMessageDetailsJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/Thread/Data.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/Util/Util.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/seller/CreateNewProductJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/sysadmin/ManageStateJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/buy/OrderJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/business/product/Product.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/sysadmin/ManageCityJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/sysadmin/ManageEnterpriseJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/sysadmin/UpdateEnterpriseAdminJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/Thread/ThreadChat.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/buy/ProductDetailsJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/main/ForgetPassJFrame.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/seller/UpdateProductJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/seller/ManageProductJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/business/system/EcoSystem.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/main/RegisterJFrame.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/sysadmin/EnterpriseAdminJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/Thread/Threadsystem.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/enterpriseAdmin/ManageUsersJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/sysadmin/ManageCountryJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/enterpriseAdmin/ManageProductJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/usermessage/RecievedMessageDetailsJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/buy/LeaveMessageJPanel.java</file>
+            <file>file:/Users/yupei/Desktop/Final_Project_5100/Client/src/userinterface/useraccount/UpdateUserAccount.java</file>
+        </group>
+    </open-files>
+</project-private>
